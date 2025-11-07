@@ -1,8 +1,3 @@
-Vardiya Yönetim Sistemi
-
-Ruby on Rails ve React ile geliştirilmiş, vardiya oluşturma, düzenleme ve takip özellikleri sunan modern bir vardiya yönetim sistemi. RESTful API, E2E testler ve Docker desteği içerir.
-
-🧭 Uzun Açıklama (README.md içeriği)
 # 🕒 SHIFT_SYSTEM – Modern Vardiya Yönetim Sistemi
 
 Ruby on Rails ve React ile geliştirilmiş, vardiya oluşturma, düzenleme ve takip özellikleri sunan **modern bir vardiya yönetim sistemi**.  
