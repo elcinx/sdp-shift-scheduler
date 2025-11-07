@@ -28,28 +28,33 @@ RESTful API, uçtan uca (E2E) testler ve Docker desteğiyle hızlı, güvenilir 
 ## ⚡ Hızlı Başlangıç
 
 ### 🧱 Backend
+
 ```bash
 bundle install
 rails db:create
 rails db:migrate
 rails server
+
 💻 Frontend
 bash
 Copy code
 cd frontend
 npm install
 npm run dev
+
 🧪 Testler
 bash
 Copy code
 bundle exec rspec
 bundle exec cucumber
 npm run test
+
 🐳 Docker
 bash
 Copy code
 docker build -t shift-system .
 docker run -p 3000:3000 shift-system
+
 🌐 API Örnekleri
 HTTP	Endpoint	Açıklama
 GET	/api/shifts	Tüm vardiyaları listele
