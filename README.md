@@ -37,21 +37,17 @@ rails server
 
 💻 Frontend
 
-Copy code
 cd frontend
 npm install
 npm run dev
 
 🧪 Testler
-
-Copy code
 bundle exec rspec
 bundle exec cucumber
 npm run test
 
 🐳 Docker
 
-Copy code
 docker build -t shift-system .
 docker run -p 3000:3000 shift-system
 
