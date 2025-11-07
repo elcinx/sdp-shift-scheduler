@@ -28,7 +28,6 @@ RESTful API, uçtan uca (E2E) testler ve Docker desteğiyle hızlı, güvenilir 
 ## ⚡ Hızlı Başlangıç
 
 ### Backend
-```bash
 bundle install
 rails db:create
 rails db:migrate
