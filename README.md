@@ -56,9 +56,9 @@ docker build -t shift-system .
 docker run -p 3000:3000 shift-system
 
 🌐 API Örnekleri
-HTTP	Endpoint	Açıklama
-GET	/api/shifts	Tüm vardiyaları listele
-POST	/api/shifts	Yeni vardiya oluştur
-GET	/api/shifts/:id	Tek vardiyayı görüntüle
-PUT	/api/shifts/:id	Vardiya güncelle
-DELETE	/api/shifts/:id	Vardiya sil
+HTTP	   Endpoint	              Açıklama
+GET	    /api/shifts	        Tüm vardiyaları listele
+POST	  /api/shifts	        Yeni vardiya oluştur
+GET	    /api/shifts/:id	    Tek vardiyayı görüntüle
+PUT	    /api/shifts/:id	    Vardiya güncelle
+DELETE	/api/shifts/:id	    Vardiya sil
